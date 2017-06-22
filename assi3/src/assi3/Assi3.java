@@ -68,10 +68,6 @@ public class Assi3 {
                         swap(j, j + 1);
                     }
                 }
-//                else{
-//                    // Swap on basis of ID
-//                    swap(students[j], students[j + 1]);
-//                } 
             }
         }
     }
